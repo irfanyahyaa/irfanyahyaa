@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m @irfanyahyaa
+## Hello there, I’m Irfan 👋
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Project Data Science
